@@ -12,12 +12,12 @@ projects:
   - icon: folder-open
     name: Syn.Clitex的博客
     desc: 项目详细描述
-    link: https://github.com/Chronabys/docsitex
+    link: https://github.com/Chronabys/Syn.Clitex
 
   - icon: link
     name: bilibili
     desc: 链接详细描述
-    link: https://exampl.com
+    link: https://space.bilibili.com
 
   - icon: https://theme-hope-assets.vuejs.press/logo.svg
     name: 自定义项目
